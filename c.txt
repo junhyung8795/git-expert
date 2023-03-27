@@ -1,0 +1,1 @@
+git push -u can remember url automatically so i don't need to type git push -u origin main but git push only.
