@@ -7,4 +7,5 @@ sadasdasd
 delete branch
 lili
 ㄴㅁㅇㄴㅁㅇㅁㄴ
+리베이스할 메인커밋
 연습중연ㄱ습중
